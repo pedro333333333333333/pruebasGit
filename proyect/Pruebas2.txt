@@ -1,1 +1,3 @@
-es la primera vez que uso git, 
+ es la primera vez que uso git, ahora voy a inicializar un progorama, 
+es la primera vez que uso git, ahora voy a inicializar un progorama, 
+ 
